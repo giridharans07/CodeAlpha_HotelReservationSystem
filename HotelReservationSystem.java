@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class HotelManagementSystem {
+public class HotelReservationSystem {
 
     static Scanner sc = new Scanner(System.in);
     static final String FILE_NAME = "bookings.txt";
@@ -132,4 +132,5 @@ public class HotelManagementSystem {
             }
         }
     }
+
 }
